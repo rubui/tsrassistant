@@ -7,7 +7,7 @@ Project Documentation and Planning Notes can be found [here.](https://drive.goog
 ![Image of Before](https://github.com/rubui/tsrassistant/blob/master/readme-imgs/before.png)
 
 # Viewing Student Feedback After TSR Assistant
-![Image of After](https://github.com/rubui/tsrassistant/blob/master/readme-imgs/after.png)
+![Image of After](https://github.com/rubui/tsrassistant/blob/master/readme-imgs/after2.png)
 
 ## Installation Instructions
 Prerequisite: Python 3 must be installed. You can get that [here](https://www.python.org/downloads/)
