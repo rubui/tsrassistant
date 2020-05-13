@@ -3,6 +3,12 @@ A project that builds off of [grepthink](https://github.com/grepthink/grepthink/
 
 Project Documentation and Planning Notes can be found [here.](https://drive.google.com/drive/folders/0B1R1qp5QghphYndneXQ5LVQ2d2s?usp=sharing)
 
+# Viewing Student Feedback Before TSR Assistant
+![Image of Before](https://github.com/rubui/tsrassistant/blob/master/readme-imgs/before.png)
+
+# Viewing Student Feedback After TSR Assistant
+![Image of After](https://github.com/rubui/tsrassistant/blob/master/readme-imgs/after.png)
+
 ## Installation Instructions
 Prerequisite: Python 3 must be installed. You can get that [here](https://www.python.org/downloads/)
 
